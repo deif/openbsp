@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <include name="base/integration.xml"/>
+  <include name="bsp/integration.xml"/>
+
+    <project name="meta-security" path="layers/meta-security" remote="yocto" revision="bc865c5276c2ab4031229916e8d7c20148dfbac3" upstream="scarthgap"/>
+    </project>
+</manifest>
