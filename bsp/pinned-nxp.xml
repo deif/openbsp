@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<manifest>
-  <remote alias="repo" fetch="https://github.com/Freescale" name="githf"/>
-
-  <project name="meta-freescale-3rdparty.git" path="layers/meta-freescale-3rdparty" remote="githf" revision="70c83e96c7f75e73245cb77f1b0cada9ed4bbc6d" upstream="scarthgap"/>
-  <project name="meta-freescale-distro.git" path="layers/meta-freescale-distro" remote="githf" revision="b9d6a5d9931922558046d230c1f5f4ef6ee72345" upstream="scarthgap"/>
-  <project name="meta-freescale.git" path="layers/meta-freescale" remote="githf" revision="fe533cd4b95b6d3c88b6f553684a06c07c48a7bf" upstream="scarthgap"/>
-</manifest>
